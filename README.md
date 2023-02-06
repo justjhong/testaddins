@@ -21,7 +21,7 @@ if (!requireNamespace("devtools", quietly = TRUE))
 devtools::install_github("rstudio/htmltools")
 devtools::install_github("rstudio/shiny")
 devtools::install_github("rstudio/miniUI")
-devtools::install_github("rstudio/addinexamples")
+devtools::install_github("justjhong/testaddins")
 ```
 
 What's an Addin?
